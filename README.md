@@ -27,8 +27,16 @@ There are 4 dimension tables [Dim_SatisfiedLevel.csv](https://github.com/riteshg
 6. Analysed department wise active employees.
 7. Categorised employees in age groups. Analyse employee count wrt age, gender and marital status. Analysed average salary of employees with ethnicity.
 8. Analysed employee satisfaction and rating levels wrt year.
-9.   
+9. Analysed attrition rate for each department and job role, business travel, overtime and tenure.
 
 ### Findings
 
+1. Largest share of employees belong to age group 20-29.
+2. White ethnic group is the highest paid.
+3. Employee feeling less satisfied end up in getting low perfromance rating.
+4. Sales Representative and HR recruiter have highest attrition of 39 % and 37 % respectively.
+5. Employees with frequent travelling and overtime tend to leave the company.
+6. Employees in first 2 years tenure tend to have higher attrition.
+
 ### Recommendations
+
